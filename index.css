@@ -3,9 +3,18 @@ h1{
     font-family: cursive;
     font-style: italic;
     text-decoration: underline;
+    background-color: coral;
 }
 form{
     background-color: beige;
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.S{
+    background-color: coral;
+}
+.button_t{
+    background-color:green;
+    color: black;
+    font-size: 25px;
 }
